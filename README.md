@@ -1,13 +1,14 @@
-### Hi there 👋
+### Hello Guys
 
 <!--
-**freitasDavi/freitasDavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**freitasDavi/freitasDavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+     
+   I'm Davi Freitas da Silva, 21 from Brasil, jr Developer who's trying to learn the whole world at the same minutes :sunglasses: 
+   Jokes over, im really like to programming and search about things and for me is the perfect match because you always searching and studying when you are programming,
+   Check some things about me bellow:
 
-Here are some ideas to get you started:
-
-- 🔭 Hi, currently im working with CakePHP and trying to start with ReactJS/NodeJS
-- 🌱 And I'm learning ReactJS, NodeJS and SASS
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🔭 Currently im working in front-end development with CakePHP and trying to start with ReactJS/NodeJS
+- :fire:And I'm learning ReactJS, NodeJS, SASS and C# for games
 - 🤔 I don't have much knowledge but if you need i can try to help you with some jobs or doubts
 - 💬 Feel free to ask me about anything, i would love to help (if able to hehe)
 - 📫 You can chat with me in those links: 
