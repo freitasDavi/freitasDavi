@@ -18,3 +18,4 @@
  ⚡ I like to play a lot of games, pratice sports, watch Movies, Tv shows and now i'm really into ReactJS And Unity, so i'm trying to learn the most as i can to see my websites and games in Action. :blush:
 
 
+![](https://komarev.com/ghpvc/?username=freitasDavi)
