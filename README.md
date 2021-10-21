@@ -10,14 +10,12 @@
    There is a lot of React, but you can also find: 
    
    $ Typescript 
-   
-   $ Express 
+  
+   $ React JS
    
    $ NodeJS
    
    $ React-native
-   
-   $ Angular 
    
    $ C#
 
