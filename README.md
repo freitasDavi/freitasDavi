@@ -3,7 +3,7 @@
 <!--
 **freitasDavi/freitasDavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
      
-❗️  Hey I'm Davi Freitas da Silva, 22 from Brasil, Front-end Developer who loves Javascript and Typescript. Nowadays i am working with ExtJS and C#, but my intentions are to move to ReactJS and NodeJS, because those are the technologies that hooked me. I like games and Tv-shows, so maybe you can find some thematic repositories and game development studies😆.
+❗️  Hey I'm Davi Freitas da Silva, 23 from Brasil, Front-end Developer who loves Javascript and Typescript. Nowadays i am working with ExtJS and C#, but my intentions are to move to ReactJS and NodeJS, because those are the technologies that hooked me. I like games and Tv-shows, so maybe you can find some thematic repositories and game development studies😆.
 
    Here you can find my studies, bootcamps and courses repositories.
    
