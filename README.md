@@ -25,5 +25,6 @@ Hope you enjoy what you find here.
 🔊 If you want to talk with me, feel free to send me an email davi.frrs@outlook.com, we can work together or share knowledge 🤗 .
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freitasDavi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=freitasDavi)
 
