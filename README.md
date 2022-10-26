@@ -11,13 +11,19 @@
    
    $ Typescript 
   
-   $ React JS
+   $ ReactJS
+  
+   $ VueJS
    
    $ NodeJS
    
    $ React-native
    
    $ C#
+   
+   $ NuxtJs
+   
+   $ NextJs
 
 Hope you enjoy what you find here.
 
