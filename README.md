@@ -12,6 +12,8 @@
    $ Typescript 
   
    $ ReactJS
+   
+   $ NextJS
   
    $ VueJS
    
@@ -22,9 +24,7 @@
    $ C#
    
    $ NuxtJs
-   
-   $ NextJs
-
+  
 Hope you enjoy what you find here.
 
 
